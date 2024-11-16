@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "miniTab",
+  "version": "1.0",
+  "description": "A minimal new tab for people who don't like new tab extensions.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": [],
+  "browser_specific_settings": {
+  "gecko": {
+    "id": "minitab@sctech.localplayer.dev",
+    "android": true
+  }
+}
+}
