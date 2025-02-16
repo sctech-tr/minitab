@@ -10,7 +10,6 @@
   "browser_specific_settings": {
   "gecko": {
     "id": "minitab@sctech.localplayer.dev",
-    "android": true
   }
 }
 }
